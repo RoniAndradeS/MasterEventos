@@ -1,4 +1,4 @@
-# MasterEventos
+# MasterEvents
 
 A project make just for studies
 
